@@ -12,4 +12,4 @@ Append the following after https://kirankumarambati.github.io/100HoursOfCoding/ 
 
 /primeNumber.html                   --- To Check Whether enteres numer is prime or Not. 
 
-/palindrome.html                    --- To check whether a String is Palindrome or Not.  
+/palindrome.html                    --- To check whether a String is Palindrome or Not..  
